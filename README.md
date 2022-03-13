@@ -14,4 +14,4 @@ Google ドライブは Google_Service_Drive サービスを使用して操作し
 
 ## API に関するドキュメント
 ・Drive Service<br/>
- https://developers.google.com/resources/api-libraries/documentation/drive/v3/php/latest/class-Google_Service_Drive.html
+ https://developers.google.com/resources/api-libraries/documentation/drive/v3/php/latest/index.html
