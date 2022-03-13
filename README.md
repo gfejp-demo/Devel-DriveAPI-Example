@@ -7,9 +7,9 @@ Google ドライブは Google_Service_Drive サービスを使用して操作し
 ```
 トップ
 │
-├ README.md .. このファイル
+├ DriveApiController.php .. サンプルコード
 │
-└ DriveApiController.php .. サンプルコード
+└ README.md .. このファイル
 ```
 
 ## API に関するドキュメント
